@@ -1,0 +1,401 @@
+CustomerID,CustomerSegment,Region
+CUST-210,Corporate,South
+CUST-178,Consumer,North
+CUST-040,Home Office,East
+CUST-139,Home Office,South
+CUST-030,Home Office,South
+CUST-271,Corporate,South
+CUST-388,Corporate,East
+CUST-119,Corporate,South
+CUST-105,Consumer,South
+CUST-116,Home Office,West
+CUST-292,Consumer,West
+CUST-215,Home Office,South
+CUST-051,Home Office,West
+CUST-108,Consumer,East
+CUST-092,Home Office,South
+CUST-187,Home Office,East
+CUST-209,Consumer,North
+CUST-280,Corporate,South
+CUST-164,Home Office,East
+CUST-258,Home Office,West
+CUST-020,Consumer,South
+CUST-008,Corporate,South
+CUST-014,Corporate,West
+CUST-322,Consumer,South
+CUST-048,Consumer,West
+CUST-055,Home Office,South
+CUST-207,Consumer,East
+CUST-268,Home Office,East
+CUST-224,Corporate,North
+CUST-120,Corporate,East
+CUST-263,Home Office,North
+CUST-303,Consumer,East
+CUST-329,Corporate,West
+CUST-205,Consumer,East
+CUST-247,Corporate,South
+CUST-195,Consumer,West
+CUST-017,Consumer,North
+CUST-299,Home Office,East
+CUST-364,Corporate,South
+CUST-270,Home Office,South
+CUST-274,Consumer,West
+CUST-184,Consumer,East
+CUST-035,Home Office,East
+CUST-068,Consumer,South
+CUST-083,Corporate,South
+CUST-183,Home Office,North
+CUST-266,Consumer,South
+CUST-208,Home Office,West
+CUST-082,Home Office,North
+CUST-312,Corporate,South
+CUST-284,Corporate,South
+CUST-382,Consumer,East
+CUST-191,Home Office,North
+CUST-101,Corporate,North
+CUST-037,Consumer,East
+CUST-081,Corporate,West
+CUST-091,Consumer,North
+CUST-078,Consumer,South
+CUST-128,Consumer,South
+CUST-134,Corporate,West
+CUST-159,Corporate,West
+CUST-242,Home Office,West
+CUST-359,Corporate,East
+CUST-096,Consumer,North
+CUST-201,Corporate,South
+CUST-279,Consumer,West
+CUST-369,Home Office,South
+CUST-278,Home Office,West
+CUST-216,Home Office,North
+CUST-034,Consumer,South
+CUST-347,Corporate,East
+CUST-172,Consumer,West
+CUST-309,Consumer,North
+CUST-064,Corporate,West
+CUST-346,Corporate,West
+CUST-219,Home Office,West
+CUST-358,Consumer,North
+CUST-070,Home Office,South
+CUST-145,Consumer,North
+CUST-277,Home Office,South
+CUST-137,Consumer,North
+CUST-394,Consumer,South
+CUST-239,Consumer,South
+CUST-061,Consumer,West
+CUST-380,Corporate,South
+CUST-243,Consumer,South
+CUST-250,Consumer,North
+CUST-114,Corporate,South
+CUST-252,Home Office,West
+CUST-002,Corporate,South
+CUST-165,Home Office,East
+CUST-319,Home Office,West
+CUST-220,Home Office,South
+CUST-389,Corporate,East
+CUST-053,Consumer,West
+CUST-147,Consumer,North
+CUST-228,Corporate,South
+CUST-127,Home Office,South
+CUST-032,Home Office,East
+CUST-295,Home Office,West
+CUST-001,Corporate,West
+CUST-235,Corporate,North
+CUST-338,Corporate,North
+CUST-376,Home Office,North
+CUST-018,Consumer,West
+CUST-189,Home Office,East
+CUST-011,Corporate,West
+CUST-222,Corporate,East
+CUST-054,Consumer,South
+CUST-146,Consumer,West
+CUST-392,Home Office,North
+CUST-355,Corporate,North
+CUST-352,Home Office,East
+CUST-337,Corporate,North
+CUST-217,Corporate,North
+CUST-042,Home Office,South
+CUST-381,Corporate,East
+CUST-387,Corporate,South
+CUST-196,Consumer,North
+CUST-193,Consumer,North
+CUST-353,Corporate,West
+CUST-289,Consumer,East
+CUST-150,Home Office,East
+CUST-362,Consumer,West
+CUST-253,Consumer,West
+CUST-206,Home Office,North
+CUST-339,Corporate,West
+CUST-317,Home Office,South
+CUST-374,Home Office,South
+CUST-093,Corporate,East
+CUST-111,Home Office,North
+CUST-236,Home Office,North
+CUST-099,Consumer,East
+CUST-182,Consumer,South
+CUST-397,Home Office,North
+CUST-009,Corporate,East
+CUST-190,Corporate,South
+CUST-310,Home Office,North
+CUST-121,Corporate,South
+CUST-327,Home Office,North
+CUST-203,Corporate,South
+CUST-267,Corporate,East
+CUST-125,Consumer,North
+CUST-115,Corporate,East
+CUST-213,Corporate,North
+CUST-117,Corporate,South
+CUST-024,Corporate,South
+CUST-143,Corporate,East
+CUST-166,Corporate,West
+CUST-194,Home Office,West
+CUST-293,Consumer,East
+CUST-049,Consumer,North
+CUST-027,Corporate,East
+CUST-071,Consumer,South
+CUST-174,Consumer,South
+CUST-324,Consumer,East
+CUST-041,Consumer,East
+CUST-273,Consumer,East
+CUST-012,Home Office,North
+CUST-356,Home Office,East
+CUST-138,Corporate,South
+CUST-019,Corporate,North
+CUST-075,Home Office,West
+CUST-395,Home Office,North
+CUST-179,Corporate,West
+CUST-085,Home Office,West
+CUST-077,Corporate,East
+CUST-321,Corporate,North
+CUST-043,Corporate,West
+CUST-261,Home Office,West
+CUST-231,Corporate,East
+CUST-177,Home Office,East
+CUST-332,Consumer,West
+CUST-286,Consumer,East
+CUST-198,Consumer,East
+CUST-185,Home Office,North
+CUST-384,Consumer,North
+CUST-141,Home Office,North
+CUST-391,Home Office,East
+CUST-110,Corporate,South
+CUST-370,Consumer,East
+CUST-238,Consumer,North
+CUST-156,Home Office,South
+CUST-197,Home Office,South
+CUST-129,Corporate,East
+CUST-160,Consumer,South
+CUST-089,Home Office,West
+CUST-307,Consumer,North
+CUST-045,Home Office,South
+CUST-094,Corporate,South
+CUST-142,Home Office,South
+CUST-229,Corporate,West
+CUST-074,Home Office,East
+CUST-076,Corporate,West
+CUST-226,Consumer,West
+CUST-039,Home Office,West
+CUST-131,Home Office,East
+CUST-311,Home Office,West
+CUST-349,Corporate,West
+CUST-100,Consumer,South
+CUST-072,Consumer,North
+CUST-202,Home Office,East
+CUST-135,Corporate,East
+CUST-151,Consumer,East
+CUST-399,Home Office,West
+CUST-169,Corporate,South
+CUST-097,Corporate,East
+CUST-331,Corporate,East
+CUST-377,Corporate,East
+CUST-168,Consumer,East
+CUST-285,Home Office,South
+CUST-255,Consumer,West
+CUST-036,Corporate,North
+CUST-058,Corporate,West
+CUST-326,Consumer,East
+CUST-052,Corporate,South
+CUST-124,Home Office,South
+CUST-170,Corporate,West
+CUST-154,Consumer,South
+CUST-313,Home Office,East
+CUST-254,Corporate,East
+CUST-126,Corporate,East
+CUST-259,Home Office,South
+CUST-133,Home Office,West
+CUST-066,Home Office,West
+CUST-348,Home Office,East
+CUST-257,Home Office,North
+CUST-316,Consumer,South
+CUST-275,Corporate,South
+CUST-223,Home Office,West
+CUST-218,Consumer,North
+CUST-330,Consumer,South
+CUST-109,Home Office,West
+CUST-357,Consumer,East
+CUST-276,Home Office,North
+CUST-162,Consumer,South
+CUST-073,Corporate,North
+CUST-175,Consumer,West
+CUST-069,Corporate,West
+CUST-167,Corporate,South
+CUST-132,Consumer,West
+CUST-240,Corporate,West
+CUST-227,Consumer,South
+CUST-130,Consumer,East
+CUST-400,Home Office,West
+CUST-290,Home Office,South
+CUST-080,Home Office,West
+CUST-112,Corporate,North
+CUST-003,Consumer,West
+CUST-341,Home Office,North
+CUST-246,Home Office,West
+CUST-221,Corporate,West
+CUST-149,Corporate,East
+CUST-044,Home Office,East
+CUST-260,Consumer,West
+CUST-269,Home Office,East
+CUST-308,Consumer,North
+CUST-029,Corporate,North
+CUST-113,Home Office,West
+CUST-056,Home Office,North
+CUST-065,Consumer,South
+CUST-385,Home Office,East
+CUST-343,Home Office,North
+CUST-006,Consumer,East
+CUST-233,Consumer,East
+CUST-087,Home Office,East
+CUST-028,Corporate,South
+CUST-315,Consumer,North
+CUST-136,Home Office,South
+CUST-296,Home Office,West
+CUST-079,Consumer,North
+CUST-264,Home Office,West
+CUST-104,Corporate,East
+CUST-333,Corporate,East
+CUST-372,Corporate,West
+CUST-204,Corporate,North
+CUST-248,Home Office,West
+CUST-023,Consumer,South
+CUST-361,Home Office,East
+CUST-375,Corporate,East
+CUST-050,Consumer,East
+CUST-103,Home Office,East
+CUST-256,Home Office,North
+CUST-095,Home Office,South
+CUST-344,Consumer,North
+CUST-386,Home Office,West
+CUST-390,Corporate,South
+CUST-086,Home Office,North
+CUST-148,Home Office,East
+CUST-281,Corporate,North
+CUST-161,Consumer,North
+CUST-013,Home Office,South
+CUST-304,Home Office,East
+CUST-283,Home Office,East
+CUST-297,Home Office,North
+CUST-230,Corporate,West
+CUST-398,Consumer,North
+CUST-047,Home Office,West
+CUST-022,Corporate,South
+CUST-251,Corporate,West
+CUST-378,Home Office,North
+CUST-298,Consumer,West
+CUST-163,Corporate,West
+CUST-335,Consumer,North
+CUST-004,Consumer,West
+CUST-144,Corporate,South
+CUST-237,Corporate,West
+CUST-314,Consumer,West
+CUST-294,Corporate,North
+CUST-031,Corporate,West
+CUST-084,Home Office,East
+CUST-334,Consumer,North
+CUST-212,Home Office,West
+CUST-173,Corporate,West
+CUST-383,Home Office,North
+CUST-365,Home Office,East
+CUST-393,Home Office,East
+CUST-241,Home Office,South
+CUST-232,Consumer,West
+CUST-057,Consumer,North
+CUST-152,Consumer,East
+CUST-199,Corporate,South
+CUST-033,Corporate,West
+CUST-245,Consumer,South
+CUST-265,Consumer,West
+CUST-038,Consumer,North
+CUST-301,Home Office,West
+CUST-302,Corporate,East
+CUST-122,Corporate,South
+CUST-363,Corporate,North
+CUST-288,Home Office,East
+CUST-188,Home Office,West
+CUST-200,Consumer,East
+CUST-158,Consumer,South
+CUST-396,Corporate,West
+CUST-107,Consumer,North
+CUST-342,Consumer,South
+CUST-176,Corporate,South
+CUST-300,Home Office,South
+CUST-282,Consumer,East
+CUST-155,Corporate,West
+CUST-016,Corporate,North
+CUST-272,Corporate,South
+CUST-354,Corporate,South
+CUST-345,Corporate,East
+CUST-046,Home Office,South
+CUST-180,Home Office,North
+CUST-211,Consumer,West
+CUST-249,Corporate,West
+CUST-306,Corporate,East
+CUST-373,Home Office,North
+CUST-181,Corporate,South
+CUST-026,Consumer,East
+CUST-368,Home Office,South
+CUST-367,Consumer,North
+CUST-088,Consumer,East
+CUST-060,Consumer,North
+CUST-186,Consumer,North
+CUST-005,Corporate,West
+CUST-336,Home Office,East
+CUST-360,Home Office,South
+CUST-262,Consumer,West
+CUST-320,Consumer,North
+CUST-062,Corporate,North
+CUST-063,Home Office,East
+CUST-010,Corporate,South
+CUST-325,Consumer,North
+CUST-328,Home Office,West
+CUST-171,Consumer,West
+CUST-090,Home Office,West
+CUST-340,Consumer,West
+CUST-287,Home Office,South
+CUST-025,Corporate,East
+CUST-350,Home Office,North
+CUST-323,Corporate,South
+CUST-098,Home Office,South
+CUST-059,Consumer,East
+CUST-225,Home Office,West
+CUST-366,Home Office,North
+CUST-305,Home Office,South
+CUST-234,Home Office,South
+CUST-102,Home Office,North
+CUST-007,Consumer,South
+CUST-291,Home Office,North
+CUST-379,Corporate,South
+CUST-214,Corporate,East
+CUST-244,Consumer,East
+CUST-067,Home Office,South
+CUST-140,Home Office,South
+CUST-015,Corporate,West
+CUST-123,Consumer,West
+CUST-153,Home Office,South
+CUST-021,Consumer,North
+CUST-192,Corporate,East
+CUST-318,Corporate,South
+CUST-371,Consumer,West
+CUST-351,Corporate,West
+CUST-106,Consumer,West
+CUST-118,Home Office,South
+CUST-157,Home Office,East

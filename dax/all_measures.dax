@@ -1,0 +1,40 @@
+// =================================================================================
+// EXECUTIVE SALES & PROFITABILITY INTELLIGENCE - DAX MEASURES
+// Table: _Measures
+// =================================================================================
+
+// Total Revenue generated
+Total Sales = SUM(Fact_Orders[Sales])
+
+// Total Net Profit
+Total Profit = SUM(Fact_Orders[Profit])
+
+// Profit Margin %
+Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
+
+// Total Order Volume
+Total Orders = COUNTROWS(Fact_Orders)
+
+// Average Order Value (AOV)
+Average Order Value = DIVIDE([Total Sales], [Total Orders], 0)
+
+// Total Quantity Sold
+Total Quantity = SUM(Fact_Orders[Quantity])
+
+// Discount Impact: High Discount Sales % (Discounts >= 20%)
+High Discount Sales = 
+CALCULATE(
+    [Total Sales],
+    Fact_Orders[Discount] >= 0.20
+)
+
+High Discount Sales % = 
+DIVIDE([High Discount Sales], [Total Sales], 0)
+
+// Dynamic Title based on Category Filter
+Dynamic Sales Header = 
+IF(
+    ISFILTERED(Dim_Product[Category]),
+    "Performance Analysis for: " & SELECTEDVALUE(Dim_Product[Category]),
+    "Executive Enterprise Sales & Profit Margin Overview"
+)
